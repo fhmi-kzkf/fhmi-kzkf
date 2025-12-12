@@ -5,17 +5,14 @@
   
   <h1>Hi there, I'm Fahmi Raditya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
   
-  <h3>Google Student Ambassador (GSA) | Data Science Student | AI-Augmented Developer</h3>
+  <h3>Google Student Ambassador (GSA) | Informatika Student | AI-Augmented Developer</h3>
   
   <p>
     <i>"Building resilient systems with Data, Logic, and a touch of AI Magic."</i>
   </p>
 
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN_KAMU">
+  <a href="https://linkedin.com/in/fahmi-raditya-a590b62a6/">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:EMAIL_KAMU@example.com">
-    <img src="https://img.shields.io/badge/Contact-Email-red?style=for-the-badge&logo=gmail">
   </a>
 </div>
 
@@ -23,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-Based in **Pontianak, Indonesia**, I am an Informatics student (Semester 6) with a deep focus on **Supply Chain Analytics** and **Applied AI**. 
+Based in **Pontianak, Indonesia**, I am an Informatics student with a deep focus on **Supply Chain Analytics**,**Applied AI**,**Data Science** and **Machine Learning**. 
 
 Unlike the traditional coder, I identify as a **"Product-Minded Builder"**. I leverage AI tools (LLMs) to accelerate development (Vibe Coding), allowing me to focus on **System Architecture**, **Business Value**, and **Solving Complex Problems**.
 
@@ -35,7 +32,7 @@ Unlike the traditional coder, I identify as a **"Product-Minded Builder"**. I le
 <br>
 
 <div align="center">
-  <img src="https://github.com/fhmi-kzkf/fhmi-kzkf/blob/main/tumblr_inline_mnuu4u4Ia91qz4rgp540.gifraw=true" width="600" alt="Shinji Screaming">
+  <img src="https://github.com/fhmi-kzkf/fhmi-kzkf/blob/main/tumblr_inline_mnuu4u4Ia91qz4rgp540.gif?raw=true" width="600" alt="Shinji Screaming">
   <br>
   
   <p><i>"Me when the code works on localhost but crashes in production."</i></p>
