@@ -35,8 +35,10 @@ Unlike the traditional coder, I identify as a **"Product-Minded Builder"**. I le
 <br>
 
 <div align="center">
-  <img src="https://media.tenor.com/O9y8GkXz6cAAAAAC/initial-d-ae86.gif" width="600" alt="Retro Anime Car">
-  <p><i>"Speed to market is key, but stability is king."</i></p>
+  <img src="https://github.com/fhmi-kzkf/fhmi-kzkf/blob/main/tumblr_inline_mnuu4u4Ia91qz4rgp540.gifraw=true" width="600" alt="Shinji Screaming">
+  <br>
+  
+  <p><i>"Me when the code works on localhost but crashes in production."</i></p>
 </div>
 
 <br>
@@ -92,7 +94,6 @@ I build tools that solve real-world problems. Here are some of my best works:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fhmi-kzkf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhmi-kzkf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
 </div>
 
 <br>
