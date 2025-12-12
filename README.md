@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[[https://media.tenor.com/XfM4w7XQz9EAAAAC/typing-fast-hacker.gif](https://github.com/fhmi-kzkf/fhmi-kzkf/blob/main/giphy-downsized-large.gif)](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhscGZjZzNtdGJ6bHhzeGNnYTFsNGpmdmtmZDZhZGJ3am40bmR0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fsoCk5kgOcYMM/giphy.gif)" width="100%" height="250" style="object-fit: cover;" alt="Coding Aesthetic">
+  <img src="https://github.com/fhmi-kzkf/fhmi-kzkf/blob/main/giphy-downsized-large.gif?raw=true" width="100%" height="250" style="object-fit: cover;" alt="Coding Aesthetic">
   
   <br>
   
@@ -27,7 +27,7 @@ Based in **Pontianak, Indonesia**, I am an Informatics student (Semester 6) with
 
 Unlike the traditional coder, I identify as a **"Product-Minded Builder"**. I leverage AI tools (LLMs) to accelerate development (Vibe Coding), allowing me to focus on **System Architecture**, **Business Value**, and **Solving Complex Problems**.
 
-* 🔭 **Currently working on:** [ChainSense](https://github.com/USERNAME/ChainSense) (AI-Powered Supply Chain Risk Management).
+* 🔭 **Currently working on:** [ChainSense](https://github.com/fhmi-kzkf/ChainSense) (AI-Powered Supply Chain Risk Management).
 * 🌱 **Learning:** MLOps, Advanced Graph Theory, & Google Cloud Platform.
 * ⚡ **Fun fact:** I treat documentation like a holy scripture. RTFM is my way of life.
 * 🎮 **Downtime:** Grinding Tekken (Mishima Main) & curating 90s Anime aesthetics.
@@ -45,25 +45,46 @@ Unlike the traditional coder, I identify as a **"Product-Minded Builder"**. I le
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
-| **AI & LLM** | ![Gemini](https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=flat&logo=google&logoColor=white) ![OpenAI](https://img.shields.io/badge/Prompt%20Engineering-412991?style=flat) |
-| **Web & App** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![NetworkX](https://img.shields.io/badge/NetworkX-Graph-blue?style=flat) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Trae%20%2F%20Cursor-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| **Core Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) |
+| **Data & AI** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=flat&logo=google&logoColor=white) |
+| **Web & Mobile** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
+| **Tools & Ops** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![VS Code](https://img.shields.io/badge/Trae%20%2F%20Cursor-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 
 <br>
 
 ### 🚀 Featured Projects
 
-#### 🔗 **[ChainSense](https://github.com/USERNAME/ChainSense)** (Flagship)
-> *A Supply Chain Risk Monitoring & Intelligence System.*
+I build tools that solve real-world problems. Here are some of my best works:
+
+#### 🔗 **[ChainSense](https://github.com/fhmi-kzkf/ChainSense)** (Flagship)
+> *Supply Chain Risk Monitoring & Intelligence System.*
 * **What it does:** Detects logistics anomalies and predicts delays using Synthetic Data & Graph Theory.
 * **Tech:** Python, Streamlit, NetworkX, Google Gemini API (XAI).
-* **Status:** Active Development (Capstone Ready).
+* **Impact:** Provides actionable insights for logistics managers to mitigate operational risks.
 
-#### 📚 **[IntelliLearn-AI](https://github.com/USERNAME/IntelliLearn-AI)**
-> *Personalized Learning Path Generator.*
-* **What it does:** Curates learning materials based on user interest using NLP.
+#### 🕵️ **[Miru OSINT](https://github.com/fhmi-kzkf/Miru-OSINT)**
+> *Advanced Open Source Intelligence Dashboard.*
+* **What it does:** A comprehensive suite for ethical reconnaissance. "Miru" (Japanese for "To View") allows deep-dive digital footprint analysis.
+* **Tech:** Python, Streamlit, OSINT APIs.
+* **Focus:** Cyber Security & Digital Investigation.
+
+#### 🧠 **[DataMind](https://github.com/fhmi-kzkf/DataMind)**
+> *No-Code ML & Analysis Platform.*
+* **What it does:** An all-in-one platform to upload CSVs, perform EDA, clean data, and train AutoML models without writing code. Includes PCA & statistical tests.
+* **Tech:** Python, Streamlit, AutoML, Pandas Profiling.
+* **Focus:** Democratizing Data Science.
+
+#### 🎓 **[SkillGap Analysis](https://github.com/fhmi-kzkf/SkillGap)**
+> *Career Pathway Recommender System.*
+* **What it does:** Uses hybrid machine learning to analyze dynamic skill gaps and recommends personalized courses to bridge the divide between current skills and career goals.
+* **Tech:** Python, Scikit-learn, NLP, Recommendation Algorithms.
+* **Focus:** EdTech & Career Development.
+
+#### ⚡ **[FlowForge](https://github.com/fhmi-kzkf/FlowForge)**
+> *Interactive Web-Based ETL Platform.*
+* **What it does:** A state-of-the-art tool designed to make data engineering accessible. Handles complex workflows from Extraction, Transformation, to Loading.
+* **Tech:** Python, Streamlit, Pandas, ETL Pipelines.
+* **Focus:** Data Engineering & Workflow Automation.
 
 <br>
 
