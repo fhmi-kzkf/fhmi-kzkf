@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://media.tenor.com/XfM4w7XQz9EAAAAC/typing-fast-hacker.gif](https://github.com/fhmi-kzkf/fhmi-kzkf/blob/main/giphy-downsized-large.gif)" width="100%" height="250" style="object-fit: cover;" alt="Coding Aesthetic">
+  <img src="[[https://media.tenor.com/XfM4w7XQz9EAAAAC/typing-fast-hacker.gif](https://github.com/fhmi-kzkf/fhmi-kzkf/blob/main/giphy-downsized-large.gif)](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhscGZjZzNtdGJ6bHhzeGNnYTFsNGpmdmtmZDZhZGJ3am40bmR0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fsoCk5kgOcYMM/giphy.gif)" width="100%" height="250" style="object-fit: cover;" alt="Coding Aesthetic">
   
   <br>
   
