@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q1ZzhzNHZ5MmZ5ZzhzNHZ5MmZ5ZzhzNHZ5MmZ5ZzhzNHZ5MmZ5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LpjX23y7st0m4/giphy.gif" width="100%" height="250" style="object-fit: cover;" alt="Ghost in the Shell Coding">
+  <img src="https://media.tenor.com/XfM4w7XQz9EAAAAC/typing-fast-hacker.gif" width="100%" height="250" style="object-fit: cover;" alt="Coding Aesthetic">
   
   <br>
   
@@ -35,7 +35,7 @@ Unlike the traditional coder, I identify as a **"Product-Minded Builder"**. I le
 <br>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/1c/17/36/1c1736173d57361498f395cb70d51381.gif" width="600" alt="Retro Anime Car">
+  <img src="https://media.tenor.com/O9y8GkXz6cAAAAAC/initial-d-ae86.gif" width="600" alt="Retro Anime Car">
   <p><i>"Speed to market is key, but stability is king."</i></p>
 </div>
 
@@ -70,8 +70,8 @@ Unlike the traditional coder, I identify as a **"Product-Minded Builder"**. I le
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fhmi-kzkf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhmi-kzkf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
 </div>
 
 <br>
@@ -80,5 +80,5 @@ Unlike the traditional coder, I identify as a **"Product-Minded Builder"**. I le
 <div align="center">
   <small><i>"We are all connected... to the net." - Lain Iwakura</i></small><br>
   <small>Visitor Count</small><br>
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_KAMU&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=fhmi-kzkf&style=flat-square&color=blue" alt=""/>
 </div>
