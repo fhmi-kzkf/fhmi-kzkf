@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- HEADER BLUEPRINT OTOMATIS (Langsung muncul tanpa perlu upload file) -->
-  <img src="./blueprint-banner.jpg" width="100%" alt="Fahmi Raditya CAD Blueprint Schematic" />
+  <!-- BANNER BLUEPRINT 3D UTAMA (Sesuaikan nama file jika nama file yang kamu upload berbeda) -->
+  <img src="https://github.com/fhmi-kzkf/fhmi-kzkf/blob/main/blueprint-banner.jpg?raw=true" width="100%" alt="Fahmi Raditya CAD Blueprint Schematic" />
 
-  <br/>
+  <br/><br/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3200&pause=1000&color=4DA6FF&center=true&vCenter=true&width=820&lines=DOC+REF+:+SPEC-FHMI-930-AI+//+SCALE+1:1+//+PONTIANAK,+ID;Building+resilient+systems+with+Data,+Logic,+and+AI+Magic.;SYSTEM+ARCHITECTURE+•+SUPPLY+CHAIN+ANALYTICS+•+APPLIED+AI" alt="Blueprint Telemetry" />
