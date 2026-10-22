@@ -1,29 +1,28 @@
 <div align="center">
 
-<!-- =========================================================================================
-     [OPSI 1: BANNER GAMBAR BLUEPRINT 3D KUSTOM]
-     Simpan gambar banner blueprint di atas ke repo `fhmi-kzkf/fhmi-kzkf` sebagai `blueprint-banner.jpg`,
-     lalu hapus tanda komentar pada baris di bawah ini:
-     <img src="./blueprint-banner.jpg" width="100%" alt="Fahmi Raditya CAD Blueprint Schematic" />
-========================================================================================== -->
+  <!-- HEADER BLUEPRINT OTOMATIS (Langsung muncul tanpa perlu upload file) -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:061F45,50:0B3B75,100:082B59&height=175&section=header&text=FAHMI%20RADITYA%20%5BFHMI-KZKF%5D&fontSize=34&fontColor=FFFFFF&fontAlignY=42&desc=GOOGLE%20STUDENT%20AMBASSADOR%20%7C%20INFORMATIKA%20%7C%20AI-AUGMENTED%20DEVELOPER&descSize=13&descAlignY=68&stroke=7CE8FF&strokeWidth=1" width="100%" alt="Blueprint Header" />
 
-<!-- [OPSI 2: HEADER BLUEPRINT OTOMATIS (LANGSUNG JALAN TANPA UPLOAD FILE)] -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:061F45,50:0B3B75,100:082B59&height=175&section=header&text=FAHMI%20RADITYA%20%5BFHMI-KZKF%5D&fontSize=34&fontColor=FFFFFF&fontAlignY=42&desc=GOOGLE%20STUDENT%20AMBASSADOR%20%7C%20INFORMATIKA%20%7C%20AI-AUGMENTED%20DEVELOPER&descSize=13&descAlignY=68&stroke=7CE8FF&strokeWidth=1" width="100%" alt="Blueprint Header" />
+  <!-- JIKA SUDAH UPLOAD `blueprint-banner.jpg` KE REPO, HAPUS TANDA KOMENTAR DI BAWAH INI:
+  <img src="./blueprint-banner.jpg" width="100%" alt="Fahmi Raditya CAD Blueprint Schematic" />
+  -->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3200&pause=1000&color=4DA6FF&center=true&vCenter=true&width=860&lines=%7C%E2%97%84%E2%94%80%E2%94%80%E2%94%80+DOC+REF+%3A+SPEC-FHMI-930-AI+%2F%2F+SCALE+1%3A1+%2F%2F+PONTIANAK%2C+ID+%E2%94%80%E2%94%80%E2%94%80%E2%96%BA%7C;%22Building+resilient+systems+with+Data%2C+Logic%2C+and+a+touch+of+AI+Magic.%22;SYSTEM+ARCHITECTURE+%E2%80%A2+SUPPLY+CHAIN+ANALYTICS+%E2%80%A2+APPLIED+AI+%E2%80%A2+MACHINE+LEARNING" alt="Blueprint Telemetry" />
-</a>
+  <br/>
 
-<br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3200&pause=1000&color=4DA6FF&center=true&vCenter=true&width=820&lines=DOC+REF+:+SPEC-FHMI-930-AI+//+SCALE+1:1+//+PONTIANAK,+ID;Building+resilient+systems+with+Data,+Logic,+and+AI+Magic.;SYSTEM+ARCHITECTURE+•+SUPPLY+CHAIN+ANALYTICS+•+APPLIED+AI" alt="Blueprint Telemetry" />
+  </a>
 
-<a href="https://linkedin.com/in/fahmi-raditya-a590b62a6/">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT_ENDPOINT-0B3B75?style=flat-square&logo=linkedin&logoColor=white&labelColor=061F40" alt="LinkedIn" />
-</a>
-<a href="https://github.com/fhmi-kzkf/ChainSense">
-  <img src="https://img.shields.io/badge/FLAGSHIP_BUILD-CHAINSENSE-1E56A0?style=flat-square&logo=github&logoColor=white&labelColor=061F40" alt="ChainSense" />
-</a>
-<img src="https://img.shields.io/badge/COORDINATES-0.0263%C2%B0_S,_109.3425%C2%B0_E-0B3B75?style=flat-square&labelColor=061F40" alt="Coordinates" />
-<img src="https://komarev.com/ghpvc/?username=fhmi-kzkf&style=flat-square&color=1E56A0&label=TELEMETRY+HITS" alt="Visitor Count" />
+  <br/>
+
+  <a href="https://linkedin.com/in/fahmi-raditya-a590b62a6/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT_ENDPOINT-0B3B75?style=flat-square&labelColor=061F40&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkgyYTIgMiAwIDAgMS0yLTJWNSAyIDIgMCAwIDEgMi0yaDE3em0tLjUgMTUuNXYtNS4zYTMuMjYgMy4yNiAwIDAgMC0zLjI2LTMuMjZjLS44NSAwLTEuODQuNTItMi4yOCAxLjN2LTEuMTFoLTIuNzl2OC4zN2gyLjc5di00LjkzYzAtLjc3LjYyLTEuNCAxLjM5LTEuNGEuMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz48L3N2Zz4=" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/fhmi-kzkf/ChainSense">
+    <img src="https://img.shields.io/badge/FLAGSHIP_BUILD-CHAINSENSE-1E56A0?style=flat-square&logo=github&logoColor=white&labelColor=061F40" alt="ChainSense" />
+  </a>
+  <img src="https://img.shields.io/badge/COORDINATES-0.0263%C2%B0_S,_109.3425%C2%B0_E-0B3B75?style=flat-square&logo=googlemaps&logoColor=7CE8FF&labelColor=061F40" alt="Coordinates" />
+  <img src="https://img.shields.io/github/followers/fhmi-kzkf?label=TELEMETRY%20NODES&style=flat-square&color=1E56A0&labelColor=061F40&logo=github&logoColor=white" alt="Telemetry Nodes" />
 
 </div>
 
@@ -63,12 +62,61 @@
 
 ## `02 // POWERTRAIN & ARSENAL MATRIX [GRID B1-B4]`
 
-| `SUBSYSTEM CODE` | `ENGINEERING LAYER` | `INSTALLED COMPONENTS & MODULES` |
-| :--- | :--- | :--- |
-| **`[SYS-01]`** | **Core Languages** | [https://img.shields.io/badge/PYTHON-0B3B75?style=flat-square&logo=python&logoColor=white&labelColor=061F40] [https://img.shields.io/badge/PHP-0B3B75?style=flat-square&logo=php&logoColor=white&labelColor=061F40] [https://img.shields.io/badge/JAVASCRIPT-0B3B75?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=061F40] [https://img.shields.io/badge/DART-0B3B75?style=flat-square&logo=dart&logoColor=white&labelColor=061F40] |
-| **`[SYS-02]`** | **Data & Applied AI** | [https://img.shields.io/badge/PANDAS-104382?style=flat-square&logo=pandas&logoColor=white&labelColor=061F40] [https://img.shields.io/badge/NUMPY-104382?style=flat-square&logo=numpy&logoColor=white&labelColor=061F40] [https://img.shields.io/badge/SCIKIT--LEARN-104382?style=flat-square&logo=scikit-learn&logoColor=F7931E&labelColor=061F40] [https://img.shields.io/badge/GOOGLE_GEMINI_API-1E56A0?style=flat-square&logo=google&logoColor=white&labelColor=061F40] |
-| **`[SYS-03]`** | **Web & Mobile UI** | [https://img.shields.io/badge/STREAMLIT-0B3B75?style=flat-square&logo=streamlit&logoColor=FF4B4B&labelColor=061F40] [https://img.shields.io/badge/FLUTTER-0B3B75?style=flat-square&logo=flutter&logoColor=white&labelColor=061F40] [https://img.shields.io/badge/HTML5-0B3B75?style=flat-square&logo=html5&logoColor=E34F26&labelColor=061F40] |
-| **`[SYS-04]`** | **Ops, DB & Cockpit** | [https://img.shields.io/badge/GIT-104382?style=flat-square&logo=git&logoColor=F05032&labelColor=061F40] [https://img.shields.io/badge/POSTGRESQL_%2F_SQL-104382?style=flat-square&logo=postgresql&logoColor=white&labelColor=061F40] [https://img.shields.io/badge/TRAE_%2F_CURSOR_IDE-1E56A0?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=061F40] |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,php,js,dart,sklearn,flutter,html,git,postgres,vscode&theme=dark" alt="Tech Stack Icons" />
+</div>
+
+<br/>
+
+<table>
+  <thead>
+    <tr>
+      <th align="left"><code>SUBSYSTEM CODE</code></th>
+      <th align="left"><code>ENGINEERING LAYER</code></th>
+      <th align="left"><code>INSTALLED COMPONENTS &amp; MODULES</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><code>[SYS-01]</code></b></td>
+      <td><b>Core Languages</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/PYTHON-0B3B75?style=flat-square&logo=python&logoColor=white&labelColor=061F40" alt="Python" />
+        <img src="https://img.shields.io/badge/PHP-0B3B75?style=flat-square&logo=php&logoColor=white&labelColor=061F40" alt="PHP" />
+        <img src="https://img.shields.io/badge/JAVASCRIPT-0B3B75?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=061F40" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/DART-0B3B75?style=flat-square&logo=dart&logoColor=white&labelColor=061F40" alt="Dart" />
+      </td>
+    </tr>
+    <tr>
+      <td><b><code>[SYS-02]</code></b></td>
+      <td><b>Data &amp; Applied AI</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/PANDAS-104382?style=flat-square&logo=pandas&logoColor=white&labelColor=061F40" alt="Pandas" />
+        <img src="https://img.shields.io/badge/NUMPY-104382?style=flat-square&logo=numpy&logoColor=white&labelColor=061F40" alt="NumPy" />
+        <img src="https://img.shields.io/badge/SCIKIT--LEARN-104382?style=flat-square&logo=scikitlearn&logoColor=F7931E&labelColor=061F40" alt="Scikit-Learn" />
+        <img src="https://img.shields.io/badge/GOOGLE_GEMINI_API-1E56A0?style=flat-square&logo=googlegemini&logoColor=white&labelColor=061F40" alt="Google Gemini API" />
+      </td>
+    </tr>
+    <tr>
+      <td><b><code>[SYS-03]</code></b></td>
+      <td><b>Web &amp; Mobile UI</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/STREAMLIT-0B3B75?style=flat-square&logo=streamlit&logoColor=FF4B4B&labelColor=061F40" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/FLUTTER-0B3B75?style=flat-square&logo=flutter&logoColor=white&labelColor=061F40" alt="Flutter" />
+        <img src="https://img.shields.io/badge/HTML5-0B3B75?style=flat-square&logo=html5&logoColor=E34F26&labelColor=061F40" alt="HTML5" />
+      </td>
+    </tr>
+    <tr>
+      <td><b><code>[SYS-04]</code></b></td>
+      <td><b>Ops, DB &amp; Cockpit</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/GIT-104382?style=flat-square&logo=git&logoColor=F05032&labelColor=061F40" alt="Git" />
+        <img src="https://img.shields.io/badge/POSTGRESQL_%2F_SQL-104382?style=flat-square&logo=postgresql&logoColor=white&labelColor=061F40" alt="SQL" />
+        <img src="https://img.shields.io/badge/TRAE_%2F_CURSOR_IDE-1E56A0?style=flat-square&logo=cursor&logoColor=white&labelColor=061F40" alt="Trae / Cursor" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
@@ -80,7 +128,7 @@
       <h4><code>[MOD-01 // FLAGSHIP]</code> 🔗 <a href="https://github.com/fhmi-kzkf/ChainSense">ChainSense</a></h4>
       <blockquote><i>Supply Chain Risk Monitoring &amp; Intelligence System</i></blockquote>
       <pre lang="text">
-CLASS    : Logistics Anomaly & Delay Predictor
+CLASS    : Logistics Anomaly &amp; Delay Predictor
 ENGINE   : Synthetic Data + Graph Theory
 STACK    : Python | Streamlit | NetworkX | Gemini XAI
 IMPACT   : Actionable operational risk mitigation</pre>
@@ -92,7 +140,7 @@ IMPACT   : Actionable operational risk mitigation</pre>
 CLASS    : Ethical Reconnaissance ("Miru" = To View)
 ENGINE   : Deep-Dive Digital Footprint Analyzer
 STACK    : Python | Streamlit | OSINT APIs
-SECTOR   : Cyber Security & Digital Investigation</pre>
+SECTOR   : Cyber Security &amp; Digital Investigation</pre>
     </td>
   </tr>
   <tr>
@@ -101,7 +149,7 @@ SECTOR   : Cyber Security & Digital Investigation</pre>
       <blockquote><i>No-Code ML &amp; Exploratory Data Analysis Platform</i></blockquote>
       <pre lang="text">
 CLASS    : End-to-End Automated Data Science Suite
-ENGINE   : CSV Ingestion -> EDA -> PCA -> AutoML
+ENGINE   : CSV Ingestion -&gt; EDA -&gt; PCA -&gt; AutoML
 STACK    : Python | Streamlit | Pandas Profiling
 SECTOR   : Democratizing Data Science</pre>
     </td>
@@ -109,10 +157,10 @@ SECTOR   : Democratizing Data Science</pre>
       <h4><code>[MOD-04 // EDTECH]</code> 🎓 <a href="https://github.com/fhmi-kzkf/SkillGap">SkillGap Analysis</a></h4>
       <blockquote><i>Career Pathway Recommender System</i></blockquote>
       <pre lang="text">
-CLASS    : Dynamic Competency & Course Matcher
-ENGINE   : Hybrid ML & NLP Recommendation Graph
+CLASS    : Dynamic Competency &amp; Course Matcher
+ENGINE   : Hybrid ML &amp; NLP Recommendation Graph
 STACK    : Python | Scikit-learn | NLP
-SECTOR   : EdTech & Career Architecture</pre>
+SECTOR   : EdTech &amp; Career Architecture</pre>
     </td>
   </tr>
   <tr>
@@ -121,7 +169,7 @@ SECTOR   : EdTech & Career Architecture</pre>
       <blockquote><i>Interactive Web-Based ETL Platform</i></blockquote>
       <pre lang="text">
 |◄──── EXTRACTION (RAW INGEST) ────►|◄──── TRANSFORMATION (PANDAS/CLEAN) ────►|◄──── LOADING (WAREHOUSE READY) ────►|
-STACK : Python • Streamlit • Pandas • Automated ETL Workflows     |     FOCUS : Data Engineering & Pipeline Automation</pre>
+STACK : Python • Streamlit • Pandas • Automated ETL Workflows     |     FOCUS : Data Engineering &amp; Pipeline Automation</pre>
     </td>
   </tr>
 </table>
@@ -131,8 +179,10 @@ STACK : Python • Streamlit • Pandas • Automated ETL Workflows     |     FO
 ## `04 // DIAGNOSTICS & TELEMETRY [GRID F1-G4]`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fhmi-kzkf&show_icons=true&bg_color=072247&title_color=FFFFFF&text_color=D6ECFF&icon_color=7CE8FF&border_color=4A90E2&hide_border=false" height="165" alt="Blueprint GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhmi-kzkf&layout=compact&bg_color=072247&title_color=FFFFFF&text_color=D6ECFF&border_color=4A90E2&hide_border=false" height="165" alt="Blueprint Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fhmi-kzkf&theme=solarized_dark" width="100%" alt="Profile Summary Blueprint" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fhmi-kzkf&background=072247&border=4A90E2&stroke=4A90E2&ring=7CE8FF&fire=00F5D4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7CE8FF&sideLabels=A8D5FF&dates=99CCFF" height="165" alt="Blueprint Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fhmi-kzkf&theme=solarized_dark" height="165" alt="Top Languages Blueprint" />
 </div>
 
 <br/>
