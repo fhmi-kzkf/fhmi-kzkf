@@ -1,11 +1,7 @@
 <div align="center">
 
   <!-- HEADER BLUEPRINT OTOMATIS (Langsung muncul tanpa perlu upload file) -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:061F45,50:0B3B75,100:082B59&height=175&section=header&text=FAHMI%20RADITYA%20%5BFHMI-KZKF%5D&fontSize=34&fontColor=FFFFFF&fontAlignY=42&desc=GOOGLE%20STUDENT%20AMBASSADOR%20%7C%20INFORMATIKA%20%7C%20AI-AUGMENTED%20DEVELOPER&descSize=13&descAlignY=68&stroke=7CE8FF&strokeWidth=1" width="100%" alt="Blueprint Header" />
-
-  <!-- JIKA SUDAH UPLOAD `blueprint-banner.jpg` KE REPO, HAPUS TANDA KOMENTAR DI BAWAH INI:
   <img src="./blueprint-banner.jpg" width="100%" alt="Fahmi Raditya CAD Blueprint Schematic" />
-  -->
 
   <br/>
 
